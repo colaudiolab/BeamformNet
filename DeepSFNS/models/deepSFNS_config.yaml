@@ -1,0 +1,2 @@
+em_d: 256 #embedding_dim
+is_bid: yes #is_bidirectional

@@ -1,0 +1,48 @@
+ar_tp: ULA #array_type  ULA RealMAN
+m: 16
+c: 340
+f: 1000
+apte: # aperture
+deg_l: -90 #degree_lower
+deg_u: 90 #degree_upper
+deg_p: 1 #degree_precision
+d: [4] #[2,3,4,5]
+spshots: 200 #snapshots
+snr: [20] #[-15,-10,-5,0,5,10,15]
+da_n: 100000  #data_num 100000 190087
+is_co: no #is_data_coherent
+p_err:  #array position error coefficient
+deg_g:  #degree gap
+
+#ar_tp: RealMAN #array_type  ULA RealMAN
+#m: 10
+#c: 340
+#f: 300
+#apte: # aperture
+#deg_l: -90 #degree_lower
+#deg_u: 90 #degree_upper
+#deg_p: 1 #degree_precision
+#d: [1] #[2,3,4,5]
+#spshots: 480 #snapshots
+#snr: [20] #[-15,-10,-5,0,5,10,15]
+#da_n: 190000  #data_num 100000 190087
+#is_co: no #is_data_coherent
+#p_err:  #array position error coefficient
+#deg_g:  #degree gap
+
+
+#ar_tp: ULA #array_type  ULA RealMAN
+#m: 16
+#c: 340
+#f: 1000
+#apte: # aperture
+#deg_l: -90 #degree_lower
+#deg_u: 90 #degree_upper
+#deg_p: 1 #degree_precision
+#d: [2,4,6,8] #[2,3,4,5]
+#spshots: 200 #snapshots
+#snr: [20] #[-15,-10,-5,0,5,10,15]
+#da_n: 100000  #data_num 100000 190087
+#is_co: no #is_data_coherent
+#p_err:  #array position error coefficient
+#deg_g:  #degree gap

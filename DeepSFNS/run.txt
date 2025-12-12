@@ -1,0 +1,1 @@
+--root_path /home/dxy/PycharmProjects/DeepSFNS --gen_data_config_path /home/dxy/PycharmProjects/DeepSFNS/dataset/gen_data_config.yaml --train_config_path /home/dxy/PycharmProjects/DeepSFNS/train_config.yaml --model_config_path /home/dxy/PycharmProjects/DeepSFNS/models/deepSFNS_config.yaml --validate_config_path /home/dxy/PycharmProjects/DeepSFNS/validate_config.yaml
